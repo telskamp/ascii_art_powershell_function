@@ -13,6 +13,7 @@ PARAMETER
 .EXAMPLE
 EXAMPLE1
 ascii -text TesT -color green -font trek
+
   dBBBBBBP dBBBP.dBBBBP  dBBBBBBP
   
                 BP   
