@@ -2,12 +2,16 @@
 Powershell function to convert tesxt to ascii art 
 This functions takes your text input and generates ascii art using the api over at https://artii.herokuapp.com
 
-PARAMETER
+PARAMETERS
+
+
 -Text: the text you would like to convert to ascii art
 
 -Color: choose text color
 
--font: choose font-listfonts: lists all available fonts
+-font: choose font
+
+-listfonts: lists all available fonts
 
 
 .EXAMPLE
